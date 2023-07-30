@@ -24,4 +24,12 @@ mod 'java',
   :git => 'git@github.com:eric1162004/java.git',
   :branch => 'production'
 
+mod 'ntp',
+  :git => 'git@github.com:eric1162004/ntp.git',
+  :branch => 'production'
+
+mod 'stdlib',
+  :git => 'git@github.com:eric1162004/stdlib.git',
+  :branch => 'production'
+
 
