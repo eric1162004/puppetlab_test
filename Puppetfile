@@ -25,11 +25,11 @@ mod 'java',
   :branch => 'production'
 
 mod 'ntp',
-  :git => 'git@github.com:eric1162004/ntp.git',
+  :git => 'git@github.com:eric1162004/puppetlabs-ntp.git',
   :branch => 'production'
 
 mod 'stdlib',
-  :git => 'git@github.com:eric1162004/stdlib.git',
+  :git => 'git@github.com:eric1162004/puppetlabs-stdlib.git',
   :branch => 'production'
 
 
