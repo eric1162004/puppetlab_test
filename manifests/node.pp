@@ -1,5 +1,5 @@
 node 'pc2.localdomain' {
-  include java:install
+  include java
   include tomcat
 }
 node 'pc3.localdomain' {
