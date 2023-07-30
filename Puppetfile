@@ -15,3 +15,7 @@ forge 'https://forge.puppet.com'
 #mod 'apache',
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
+
+mod 'tomcat',
+  :git => 'git@github.com:eric1162004/tomcat.git',
+  :branch => 'production'
