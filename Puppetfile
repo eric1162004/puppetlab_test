@@ -24,8 +24,8 @@ mod 'java',
   :git => 'git@github.com:eric1162004/java.git',
   :branch => 'production'
 
-mod 'ntp',
-  :git => 'git@github.com:eric1162004/puppetlabs-ntp.git',
+mod 'chrony',
+  :git => 'git@github.com:eric1162004/puppet-chrony.git',
   :branch => 'production'
 
 mod 'stdlib',
